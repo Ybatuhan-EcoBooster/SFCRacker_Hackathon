@@ -17,9 +17,9 @@ The Arkadash group aims to provide efficient and easy-to-adjust solutions to the
 **Meet The Dreamteam**
 
 -Batuhan YILDIRIM- Python Dev & Business Analytics
--Ali Aliyev- Python Dev & Techn
+-[Ali Aliyev](https://github.com/rotatheicon)- Python Dev & Techn
 -Łukasz Matysiak- Presentation, Business, Task Management
--İhsan Varış- Python Dev, Frontend Dev, Communication
+-[İhsan Varış](https://github.com/atmaca23)- Python Dev, Frontend Dev, Communication
 
 ## Streamlit Library 💻
 **Streamlit:** : I made some part of my project on Streamlit. It provided many tools for achieving my project's visualization.
