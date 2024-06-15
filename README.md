@@ -14,12 +14,6 @@ Arkadash is run on Python (Streamlit is used for front-end development, and the 
 ## Why is it so innovative?
 The Arkadash group aims to provide efficient and easy-to-adjust solutions to the particular problem without using complex methods. As it is clearly understandable, only three main libraries were used, making it easier for the company in case they wish to make adjustments to the source code, considering the fact that these mentioned libraries are easy to access.
 
-**Meet The Dreamteam**
-
-- Batuhan YILDIRIM- Python Dev & Business Analytics
-- [Ali Aliyev](https://github.com/rotatheicon)- Python Dev & Techn
-- Łukasz Matysiak- Presentation, Business, Task Management
-- [İhsan Varış](https://github.com/atmaca23)- Python Dev, Frontend Dev, Communication
 
 ## Streamlit Library 💻
 **Streamlit:** : I made some part of my project on Streamlit. It provided many tools for achieving my project's visualization.
